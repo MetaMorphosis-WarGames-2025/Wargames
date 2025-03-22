@@ -4,7 +4,7 @@
 To install **Wargames-2K25**, run the following command in your terminal:
 
 ```sh
-curl -fsSL https://github.com/AdityaAparadh/Technozion/releases/download/CLI/install.sh | sh
+curl -fsSL https://github.com/MetaMorphosis-WarGames-2025/Wargames/releases/download/installScript/install.sh | sh
 ```
 
 ### 🔄 **Restart Notice**
