@@ -8,7 +8,7 @@ curl -fsSL https://github.com/AdityaAparadh/Technozion/releases/download/CLI/ins
 ```
 
 ### 🔄 **Restart Notice**
-If the installation script prompts for a restart, press **'y'** and allow your computer to reboot. Once restarted, **run the installation command again** to complete the setup.
+Once the installation completes successfully, restart your system to apply the necessary changes.
 
 ---
 
